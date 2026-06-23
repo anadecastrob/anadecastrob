@@ -2,10 +2,10 @@
 
 # Ana de Castro
 
-**Head de Tecnologia · Desenvolvedora Web · Designer**
+**Head of Technology · Web Developer · Designer**
 
-Construo produtos digitais para empresas B2B — da arquitetura à interface.
-Trabalho na interseção entre design e código: estratégia, execução e estética caminhando juntas.
+Building digital products for B2B companies, from architecture to interface.
+Where design meets code: strategy, execution and aesthetics working together.
 
 [![Portfolio](https://img.shields.io/badge/anadecastro.com-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://anadecastro.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-de-castro-/)
@@ -15,45 +15,24 @@ Trabalho na interseção entre design e código: estratégia, execução e esté
 
 </div>
 
----
+<br>
 
-## 🛠️ Stack
+## Stack
 
-**Frontend**
+[![Skills](https://skillicons.dev/icons?i=html,css,js,figma,wordpress,php,mysql,docker,git,cloudflare&perline=10)](https://skillicons.dev)
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,figma&perline=8)](https://skillicons.dev)
+<br>
 
-**CMS & Backend**
+## About
 
-[![Backend Skills](https://skillicons.dev/icons?i=wordpress,php,mysql&perline=8)](https://skillicons.dev)
+I started in design. Learned to think in pixels, grids and hierarchy long before writing my first line of code.
 
-**Infra & Ferramentas**
+Today I lead a tech team as Head of Technology, connecting product strategy, technical execution and continuous improvement. I've also worked as a Lead Web Designer, developer and freelancer across different industries.
 
-[![Infra Skills](https://skillicons.dev/icons?i=docker,git,cloudflare,linux&perline=8)](https://skillicons.dev)
+I'm currently studying AI and AI agents, an area I'm genuinely passionate about. I have hands-on experience with AI tools and agentic workflows, and I'm always exploring what's next in that space.
 
----
+I believe in small teams, clean systems and decisions that age well.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anadecastro&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&hide_rank=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anadecastro&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## 🗂️ Sobre
-
-Comecei pelo design. Aprendi a olhar para pixels, grids e hierarquia muito antes de escrever minha primeira linha de código.
-
-Hoje lidero a área de tecnologia do [Grupo Naipe](https://gruponaipe.com.br), onde conecto estratégia de produto, execução técnica e evolução contínua. Antes disso, passei por funções como Lead Web Designer, desenvolvedora e freelancer.
-
-Acredito em times pequenos, sistemas claros e decisões que envelhecem bem.
-
-- 🏢 Head de Tecnologia @ Grupo Naipe · Jundiaí, SP
-- 🌐 Portfólio: [anadecastro.com](https://anadecastro.com/)
-- 💼 Disponível para oportunidades híbridas ou remotas
-- 📬 Respondo em até 48h
+- 🌐 [anadecastro.com](https://anadecastro.com/)
+- 📍 Jundiaí, SP, Brazil
+- 📬 hello@anadecastro.com
