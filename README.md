@@ -34,5 +34,5 @@ I'm currently studying AI and AI agents, an area I'm genuinely passionate about.
 I believe in small teams, clean systems and decisions that age well.
 
 - 🌐 [anadecastro.com](https://anadecastro.com/)
-- 📍 Jundiaí, SP, Brazil
+- 📍 São Paulo, Brazil
 - 📬 hello@anadecastro.com
